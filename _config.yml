@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "인프라와 개발 그 어디쯤"
+title                    : "Infra&Dev"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kimyong"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dydgus0111/kimyong.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "인프라와 개발 그 어디쯤"
+masthead_title           : "Infra&Dev"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Kimyong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "인프라 직무에서 일하면서 개발도 종종 하고 있습니다. <br> 공부하는 내용에 대해서 기록 겸 공유 용도로 사용중입니다."
+  bio              : "Start"
   location         : "Republic of Korea"
   email            : "kkskww@gmail.com"
   links:
@@ -288,7 +288,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "main"
