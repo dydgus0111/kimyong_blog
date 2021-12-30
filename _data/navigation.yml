@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "CodingTest"
-    url: /CodingTest
+    url: categories/CodingTest
   - title: "Server"
-    url: /Server/
+    url: categories/Server/
   - title: "Tools"
-    url: /Tools/
+    url: categories/Tools/
   - title: "Blog"
-    url: /Blog/
+    url: categories/Blog/
   - title: "Etc"
-    url: /Etc/
+    url: categories/Etc/
