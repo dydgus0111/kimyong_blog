@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kimyong"
 description              : "Server / Network / Develop / ETC ..."
-url                      : "https://kimyong.github.io"
+url                      : "https://dydgus0111.github.io/kimyong_blog/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dydgus0111/comment"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
